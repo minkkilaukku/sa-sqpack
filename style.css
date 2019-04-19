@@ -1,0 +1,58 @@
+.gridCanvas {
+    background: #ccf;
+    padding: 5px;
+}
+
+
+.gridInfo {
+    font-weight: 700;
+    /* for displaying all the words, not just their counts
+    max-height: 100px;
+    min-height: 100px;
+    overflow-y: auto;
+    */
+}
+
+.infoText {
+    margin: 3px 0 5px 0;
+    font-size: 14px;
+}
+
+.inWords {
+    font-size: 12px;
+    color: green;
+}
+
+.outWords {
+    font-size: 12px;
+    color: red;
+}
+
+
+.controls button {
+    margin-right: 7px;
+    min-width: 70px;
+}
+
+.controls label {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.resetControls button {
+    margin-left: 10px;
+    background: #c43;
+}
+
+.resetControls label {
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+.controls h3 {
+    margin-top: 16px;
+    margin-bottom: 3px;
+    font-size: 14px;
+}
+
+
